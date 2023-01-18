@@ -20,4 +20,18 @@ public class PrintMsgs {
 		
 	}
 
+	
+	public void Print()
+	{
+		
+		System.out.println("The Print is Happened");
+		
+	}
+	public void Send()
+	{
+		
+		System.out.println("The Print is Happened");
+		
+	}
+
 }
