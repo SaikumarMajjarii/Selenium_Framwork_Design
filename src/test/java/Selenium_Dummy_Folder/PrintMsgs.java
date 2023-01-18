@@ -12,6 +12,18 @@ public class PrintMsgs {
 	}
 	
 	
+	public void SendEmail()
+	{
+		
+		System.out.println("The Email is Happened");
+		
+	}
+	public void SendCars()
+	{
+		
+		System.out.println("The Cars is Happened");
+		
+	}
 	
 	public void Click()
 	{
