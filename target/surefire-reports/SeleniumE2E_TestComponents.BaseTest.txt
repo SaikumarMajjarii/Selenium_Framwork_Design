@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SeleniumE2E_TestComponents.BaseTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.626 s - in SeleniumE2E_TestComponents.BaseTest
